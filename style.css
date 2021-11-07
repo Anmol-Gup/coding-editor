@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{
+  box-shadow: -2px 6px 19px -10px rgba(0,0,0,0.7);
+-webkit-box-shadow: -2px 6px 19px -10px rgba(0,0,0,0.7);
+-moz-box-shadow: -2px 6px 19px -10px rgba(0,0,0,0.7);
+  height: 10vh;
+  line-height: 10vh;
+  text-align: center;
+  padding: 0.5rem;
+}
+section{
+  height: 90vh;
+}
+.editor{
+  height: 50vh;
+}
+textarea{
+  letter-spacing: 2px;
+}
